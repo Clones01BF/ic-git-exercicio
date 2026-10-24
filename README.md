@@ -1,4 +1,4 @@
-# Projeto de Introdução à Computação - Versão B
+# Projeto de Introdução à Computação - Versão A
 ## Funcionalidades
 Funcionalidade 1
 Funcionalidade 2
